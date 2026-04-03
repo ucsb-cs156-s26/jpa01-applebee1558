@@ -2,7 +2,7 @@
 
 
 
-Deployed at: http://jpa01-applebee1558.dokku-03.cs.ucsb.edu
+Deployed at: https://jpa01-applebee1558.dokku-03.cs.ucsb.edu
 
 
 # About this repo
